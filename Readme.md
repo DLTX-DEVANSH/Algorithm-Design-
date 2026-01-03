@@ -1,7 +1,7 @@
 This repository consists of all the  code for the course `DAA (Design and Analysis of Algorithm)`  
->[!Note] This is not for typical DSA 
->This repository is focused on Design and Analysis of Algorithm not typical DSA course that are for Competitive programming . 
->This course focuses on theoretical understanding of Algorithm and their effect on runtime , RAM usage & sometimes on their machine langue instruction 
+> **This is not for typical DSA** 
+> This repository is focused on Design and Analysis of Algorithm not typical DSA course that are for Competitive programming . 
+> This course focuses on theoretical understanding of Algorithm and their effect on runtime , RAM usage & sometimes on their machine langue instruction 
 
 ---
 #### Structure of repository
@@ -43,8 +43,8 @@ each Makefile also consists of CLEAN function that is responsible to clean and r
 linux> make CLEAN 
 ```
 
->[!note] Makefiles have no shell scripting 
->to keep things simple and good enough for learning i have not used any shell scripting (exception to some parts)
+> **Makefiles have no shell scripting** 
+> to keep things simple and good enough for learning i have not used any shell scripting (exception to some parts)
 
 ---
 #### Memory checks using valgrind
