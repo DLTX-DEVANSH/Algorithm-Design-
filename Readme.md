@@ -1,3 +1,6 @@
+
+**Please Leave a ⭐ star on the repository if you found this helpful 😀😀**
+
 This repository consists of all the  code for the course `DAA (Design and Analysis of Algorithm)`  
 > **This is not for typical DSA** 
 > This repository is focused on Design and Analysis of Algorithm not typical DSA course that are for Competitive programming . 
