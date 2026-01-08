@@ -9,11 +9,13 @@ $$
 so the loop to be terminated $\frac{S}{2^k} \le 1$
 
 so 
+
 $$
 	\begin{aligned}
 	& \frac{S}{2^k} \le 1 \\
 	& S \le 2^k \\
 	& lgS \le k
+	\end{aligned}
 $$
 
 and as k must be integer , hence $k = \lceil lgS \rceil$
