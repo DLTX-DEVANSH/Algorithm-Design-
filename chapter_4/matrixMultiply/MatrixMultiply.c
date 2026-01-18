@@ -43,7 +43,7 @@ Matrix*  matrixMult(Matrix* A, Matrix* B){
 		for(int j = 0 ; j < B->col;j++){
 			for(int k = 0 ; k < ROW ; k++){
 				*(temp->data + (i * temp->col) + j) += *(A->data + (i*A->col) + k)
-													  +*(B->data + (k*B->col) + j);
+													* *(B->data + (k*B->col) + j);
 			}
 		}
 	}
